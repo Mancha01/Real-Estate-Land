@@ -35,3 +35,23 @@
 #Importing Axios [25:20]
 
 #Adding the Api host [25:41]
+
+#Read on the Rapid api Bayut Api docs: https://rapidapi.com/apidojo/api/bayut
+
+#Testing data by logging : [30:55]
+
+#Fetch the properties and map over them [31:27]
+
+#Creating a function component with an instant return (just parentheses) [34:17], [54:35]
+
+#Another instance using chakra ui(not much use of css files, more of styling inline): [39:11]
+
+#Conditional image rendering using the ternary conditional operator [40:32]
+
+#An example of uisng millify [43:29]
+
+#Wrap everything with chakra provider(always read docs of any package/dependency you're using or want to use) [50:39]
+
+#Creating the Menu/Navbar component [53:05]
+
+#Chakra ui menu : https://chakra-ui.com/docs/components/menu
