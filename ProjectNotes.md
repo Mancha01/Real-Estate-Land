@@ -48,10 +48,28 @@
 
 #Conditional image rendering using the ternary conditional operator [40:32]
 
-#An example of uisng millify [43:29]
+#An example of using millify [43:29]
 
 #Wrap everything with chakra provider(always read docs of any package/dependency you're using or want to use) [50:39]
 
 #Creating the Menu/Navbar component [53:05]
 
 #Chakra ui menu : https://chakra-ui.com/docs/components/menu
+
+#Creating a Footer: [1:00:18]
+
+#Implementing Search page with search feature [1:02:41]
+
+#Search Filters component [1:11:24]
+
+#More on filtering from after the previous point and filtering of data pulled from the Api based on certain criteria
+
+#getServerSide props: [1:19:37]
+
+#file based loading [1:34:45]
+
+#More conditional rendering [1:51:00]
+
+#More conditional rendering [1:56:14]
+
+#Implement progress bar using NProgress[2:00:00]
